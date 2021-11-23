@@ -147,3 +147,5 @@ int __cdecl main(int argc, const char **argv, const char **envp)
     result = sub_10A0(&size, argv, v7);
   return result;
 }
+
+![image](https://user-images.githubusercontent.com/57678966/142989342-85fd6b13-6cf8-4ffb-a4a2-434176fe27cb.png)
